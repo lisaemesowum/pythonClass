@@ -19,4 +19,4 @@ age = 23
 message = "congratulation your age is accepted" if age >= 18 else "not eligible"
 print(message)
 
-# =================logical operator ================================
+# =================logical operator ===============================
