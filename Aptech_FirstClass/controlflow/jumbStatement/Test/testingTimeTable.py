@@ -19,7 +19,7 @@
 # # print(time2 )
 
 # -------------------- smart method ----------------------
-print("                                                            Multiplication Table                    \n")
+print("                                               Multiplication Table                    \n")
 for i in range(1,12):
     for j in range(1,12):
     

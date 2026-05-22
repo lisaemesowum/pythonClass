@@ -23,6 +23,12 @@ for i in range( triangle):
     
     
     # another method
+    # ***************
+    # *             *
+    # *             *
+    # *             *
+    # ***************
+    # whats this called 
     
 
     
