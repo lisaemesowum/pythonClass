@@ -21,14 +21,7 @@ for i in range( triangle):
         print("* ", end="")
     print()
     
-    
-    # another method
-    # ***************
-    # *             *
-    # *             *
-    # *             *
-    # ***************
-    # whats this called 
+
     
 
     
