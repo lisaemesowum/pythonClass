@@ -22,7 +22,7 @@ for a in range(rows):
     
     
 for i in range(6):
-    for j in range(7): #Inner loop So each row has 7 column positions.
+    for j in range(7):   #Inner loop So each row has 7 column positions.
         if ((i == 0 and j % 3 != 0) or  #This works only on first row print when remainder is NOT 0
             (i == 1 and j % 3 == 0) or   #Only works on row 1.
             (i - j == 2) or             #This creates the left diagonal.This is the left slanting side.
