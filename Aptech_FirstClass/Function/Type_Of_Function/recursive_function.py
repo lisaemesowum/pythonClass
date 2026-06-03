@@ -1,6 +1,7 @@
 # 4:  recursive function 
 
-# this is a function that calls itself in order to solve a problem. it is used to solve problems that can be broken down into smaller subproblems.
+# this is a function that calls itself in order to solve a problem.
+# it is used to solve problems that can be broken down into smaller subproblems.
 # it is important to have a base case to prevent infinite recursion.
 
 def factorial(n):

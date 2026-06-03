@@ -1,7 +1,9 @@
 # what we learned in this section 
 
 # Functions 
-# a function is a block of code that performs a specfic task. it helps to define large programs into smaller and  reusable parts. it also helps to reuse code and improve readability.
+# a function is a block of code that performs a specfic task. 
+# it helps to define large programs into smaller and  reusable parts.
+# it also helps to reuse code and improve readability.
 
 #------------------------- why function ==========================================
 # 1: it makes code organized and easy to understand.
