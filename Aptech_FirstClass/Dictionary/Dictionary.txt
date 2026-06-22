@@ -1,0 +1,16 @@
+Python Dictionary
+  are key value pairs to store data ,similar to lists and tuples
+
+
+
+--------------------------------------------------------------------------
+Notes:
+
+1: Dictionary keys must be immutable, 
+   such as tuples, strings, integers, etc. 
+   We cannot use mutable (changeable) objects such as lists as keys.
+
+2: We can also create a dictionary using a Python built-in function dict(). 
+   To learn more, visit Python dict().
+
+--------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+ 
+ -----------------TUPLES------------------------------------------
+
+ tuples are collection of mulitple values.stores in one variable just like list
+
+    it uses parentheses () instead of {}
+    tuple are immutable, cannot be changed.
