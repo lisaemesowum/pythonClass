@@ -1,0 +1,27 @@
+A file is a container on disk,used to store data permanently
+---------------------example---------------------------------- 
+1:student.tst
+2:report.pdf
+3:photo.csv
+4:config.json
+
+---------- Type of file ----
+
+1: Text files
+    they are human readable file
+    ----- example -----
+    1: .txt  
+    2: .json
+    3: .xml
+    4: .py
+
+2: Binary files
+    They are non human readable 
+    ----- example ----
+    1: .mp4
+    2: .jpy
+    3: .mp3
+    4: .exp 
+    5: .bytes
+
+They shore in bytes
