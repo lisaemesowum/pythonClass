@@ -1,0 +1,7 @@
+Degin and implement an app or website capable of supporting the construction of a poem by a group
+of players. the game should preswnt an initial, randomly selected player to begin the poem construction.
+that player will write a line and press return.
+the next randomly chosen player will be prompted to add a line, and so on
+the emerging poem should be available to all players as it forms.
+the game should end when all players have has a turn. note that your soluction need support multiple parallel teams.
+you may choose to develop a visual frontend, or implement a very simple  text based interface as you prefer. you may choose architecture you deem appropriate.

@@ -1,0 +1,2 @@
+OOP - object oriented programming 
+Allows you to structure your code using classes and objects for better organization and reusability
